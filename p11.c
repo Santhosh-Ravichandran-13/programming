@@ -4,7 +4,7 @@ if(r==1){
 printf("\nFan and Light in Room 1 is On:");
 }
 else if(r==2){
-   printf("\nFan and Light in Room 1 & 2 is On:");
+   printf("\nFan and Lig      ht in Room 1 & 2 is On:");
     }  
       else if(r==3){
    printf("\nFan and Light in Room 1 & 2 & 3 is On:");
